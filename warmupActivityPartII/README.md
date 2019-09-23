@@ -10,9 +10,7 @@ Many websites have multiple websites associated with it. We are going to create 
   Modify the code within the nav element as follows:
   ![Nav](images/nav.png)
   
-2. Create a new file by clicking the green button next to Files in the top left corner and selecting `Add HTML File`
-   - Rename it to services.html and copy over the code from your Home page so it looks like so: 
-   ![Services Inital](images/servicesInitial.png)
+2. Create a new file named services.html and copy over the code from your Home page:
    
    - Modify the title of the web page by changing the text between the `<title>` and `</title>` tags to "Trillium Media Design - Services". 
    
@@ -22,8 +20,7 @@ Many websites have multiple websites associated with it. We are going to create 
    - Your page should look like this: 
    ![Services Final](images/servicesFinal.png)
    
-3. Create the Contact Page by clicking the green button next to Files in the top left corner and selecting `Add HTML File` 
-  - Rename it to contact.html and copy over the code from your Home page like you did for services.html
+3. Create the Contact Page creating a new file named contact.html and copying over the code from your Home page like you did for services.html
   
   - Modify the title to "Trillium Media Design - Contact" 
   
